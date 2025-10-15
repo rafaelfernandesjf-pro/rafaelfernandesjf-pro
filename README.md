@@ -35,118 +35,12 @@ Sou certificado **PMP®** (Project Management Professional) e possuo um MBA em G
 ### 🛠️ Competências e Ferramentas de Gerenciamento
 
 #### **Metodologias & Práticas PMI**
-
-<img 
-    align="left" 
-    alt="PMBOK"
-    title="PMBOK/PMI" 
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://img.icons8.com/?size=100&id=t7U37Pj56Y8O&format=svg&color=E60000"
-/>
-<img 
-    align="left" 
-    alt="Scrum" 
-    title="Scrum/Agile"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scrum/scrum-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Kanban"
-    title="Kanban" 
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://img.icons8.com/?size=100&id=49911&format=svg&color=000000"
-/>
-<img 
-    align="left" 
-    alt="Waterfall" 
-    title="Waterfall (Tradicional)"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://img.icons8.com/?size=100&id=V5r3937R8mEw&format=svg&color=2196F3"
-/>
-<img 
-    align="left" 
-    alt="PMO" 
-    title="PMO e Governança"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://img.icons8.com/?size=100&id=44802&format=svg&color=FBC02D"
-/>
-<img 
-    align="left" 
-    alt="Digital Transformation" 
-    title="Transformação Digital"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://img.icons8.com/?size=100&id=22736&format=svg&color=1DE9B6"
-/>
-
-<br/>
-<br/>
-
 #### **Ferramentas de Gerenciamento e Planejamento**
 
-<img 
-    align="left" 
-    alt="Jira"
-    title="Jira (Atlassian)" 
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MS Project" 
-    title="Microsoft Project"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoft/microsoft-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Trello" 
-    title="Trello"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="ERP" 
-    title="Software ERP"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://img.icons8.com/?size=100&id=87082&format=svg&color=536DFE"
-/>
-<img 
-    align="left" 
-    alt="MS Office" 
-    title="MS Office/Excel/PowerPoint"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://img.icons8.com/?size=100&id=lK4Y0m0j9491&format=svg&color=3367d6"
-/>
-<img 
-    align="left" 
-    alt="Data" 
-    title="KPIs & Data Analysis"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://img.icons8.com/?size=100&id=11306&format=svg&color=4CAF50"
-/>
-
-<br/>
-<br/>
-
----
 
 ### 💼 Foco e Áreas de Atuação
 
-* **Gestão de Restrições:** Conduzir projetos estratégicos garantindo o cumprimento de **Escopo, Cronograma, Orçamento e Qualidade (ECCR)**, gerenciando ativamente as solicitações de mudança.
+* **Gestão de Restrições:** Conduzir projetos estratégicos garantindo o cumprimento de **Escopo, Cronograma, Orçamento e Qualidade**, gerenciando ativamente as solicitações de mudança.
 * **Liderança de Stakeholders:** Liderar a comunicação e a coordenação entre a equipe técnica, áreas de negócio e clientes, garantindo o alinhamento de expectativas e a satisfação do cliente.
 * **Gerenciamento do Risco:** Atuar proativamente na identificação e gestão de **Riscos, Impedimentos e Conflitos**, assegurando a continuidade e a previsibilidade na entrega dos projetos.
 * **Melhoria Contínua:** Promover a padronização de processos e a aplicação da metodologia mais adequada (Ágil/Tradicional), apoiando a **governança de projetos** e o *mentoring* de analistas.
@@ -163,5 +57,3 @@ Sou certificado **PMP®** (Project Management Professional) e possuo um MBA em G
 | **Formação** | **PMP® (PMI)** e **MBA em Gestão de Projetos e Metodologias Ágeis (PUCRS)**. |
 | **Atuação Atual** | Gerente de Projetos (CELK Sistemas), com foco em **TI Estratégica** para o setor de **Saúde**. |
 | **Competências Chave** | Liderança de Equipes Multidisciplinares, Gestão de Contrato, Reporte de **KPIs**, e Condução do Ciclo de Vida Completo do Projeto. |
-
-**Obs.:** Lembre-se de substituir o placeholder `[SEU_USUARIO]` pelo seu nome de usuário real no GitHub.
